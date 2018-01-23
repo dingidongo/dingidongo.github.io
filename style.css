@@ -1638,3 +1638,13 @@ position: absolute;
 top: 83%;
 left: 0%;
 }
+vs{
+display: block;
+background: url(vs.png);
+background-size: cover;
+padding-left: 250px;
+padding-bottom: 120.5px;
+position: absolute;
+top: 47%;
+left: 47%;
+}
