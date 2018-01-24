@@ -1580,33 +1580,26 @@
 body{
 margin: auto;
 }
-prima{
-display: block;
-background: url(logo.png);
+body{
+background-image: url(bcg.jpg);
 background-size: cover;
-padding-bottom: 153px;
-min-width: 300px;
-position: absolute;
-top: 3%;
-left: 40%;
-right: 40%;
 }
 schl{
 display: block;
 background: url(school.png);
 background-size: cover;
-padding-bottom: 100px;
-padding-left: 100px;
+padding-bottom: 123.25px;
+padding-left: 128px;
 position: absolute;
-top: 30%;
+top: 28%;
 right: 30%;
 }
 gaml{
 display: block;
 background: url(games.png);
 background-size: cover;
-padding-bottom: 100px;
-padding-left: 100px;
+padding-bottom: 107.25px;
+padding-left: 128px;
 position: absolute;
 top: 30%;
 left: 30%;
